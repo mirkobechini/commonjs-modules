@@ -3,8 +3,9 @@ function getFullName(firstName, lastName){
         firstName,
         lastName
     }
+    
     return fullName
 }
 
 
-export {fullName}
+export {getFullName}
